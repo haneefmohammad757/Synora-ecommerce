@@ -1,0 +1,23 @@
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Backend
+backend/target
+
+# IDE
+.vscode
+.idea
+backend/.idea
+
+# Git
+frontend/.git
+backend/.git
+
+# Environment
+frontend/.env
+backend/application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
